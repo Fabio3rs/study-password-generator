@@ -24,3 +24,6 @@ or
     ```bash
     $ CXXFLAGS=-std=c++17 make main
     ```
+
+## TODO
+Analyze the std::random_engine implementation on various platforms and see if it is cryptographically secure.
